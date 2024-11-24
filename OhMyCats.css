@@ -1,0 +1,79 @@
+a {
+    font-family: "Merienda", cursive;
+    color: white;
+    text-decoration: none;
+  }
+  header {
+    background-color: #061339;
+  }
+  .header {
+    background: url("../evaluations_docs/img/background.jpg") repeat;
+    height: 200px;
+  }
+  
+  .header h1 {
+    font-family: "Merienda", cursive;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+  }
+  
+  .cats {
+    background-color: #f1f1f1;
+  }
+  
+  .cats h2 {
+    font-family: "Merienda", cursive;
+    color: #2f4073;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  .carousel-caption h5 {
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+  }
+  .carousel-indicator {
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 20px !important;
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+    border: 2px solid white !important ;
+    background: transparent !important;
+  }
+  .active {
+    background: white !important;
+  }
+  
+  .about {
+    background: #ddd;
+  }
+  
+  .about h1 {
+    font-family: "Merienda", cursive;
+    color: #2f4073;
+    font-size: 1.7em;
+    font-weight: lighter;
+  }
+  
+  .about p {
+    font-size: 0.8em;
+  }
+  .cat-head {
+    background-color: #7885a5;
+    display: flex;
+  }
+  
+  .cat-head:hover {
+    background-color: #061339;
+  }
+  
+  .footer {
+    font-size: 0.6em;
+    padding: 5px;
+    color: white;
+    text-align: right;
+    background-color: #061339;
+  }
+  
